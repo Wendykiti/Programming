@@ -1,0 +1,16 @@
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\bin\Debug\net5.0\BlenderDecoratorStrategy.exe
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\bin\Debug\net5.0\BlenderDecoratorStrategy.deps.json
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\bin\Debug\net5.0\BlenderDecoratorStrategy.runtimeconfig.json
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\bin\Debug\net5.0\BlenderDecoratorStrategy.runtimeconfig.dev.json
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\bin\Debug\net5.0\BlenderDecoratorStrategy.dll
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\bin\Debug\net5.0\ref\BlenderDecoratorStrategy.dll
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\bin\Debug\net5.0\BlenderDecoratorStrategy.pdb
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\obj\Debug\net5.0\BlenderDecoratorStrategy.csproj.AssemblyReference.cache
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\obj\Debug\net5.0\BlenderDecoratorStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\obj\Debug\net5.0\BlenderDecoratorStrategy.AssemblyInfoInputs.cache
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\obj\Debug\net5.0\BlenderDecoratorStrategy.AssemblyInfo.cs
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\obj\Debug\net5.0\BlenderDecoratorStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\obj\Debug\net5.0\BlenderDecoratorStrategy.dll
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\obj\Debug\net5.0\ref\BlenderDecoratorStrategy.dll
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\obj\Debug\net5.0\BlenderDecoratorStrategy.pdb
+C:\Users\Wendy\source\repos\BlenderDecoratorStrategy\BlenderDecoratorStrategy\obj\Debug\net5.0\BlenderDecoratorStrategy.genruntimeconfig.cache
