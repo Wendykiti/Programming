@@ -8,9 +8,10 @@ namespace BlenderDecoratorStrategy
 {
     public class Blender : IDoСoctails
     {
+
         public string Name { get; set; }
         public IMethodOfWhipping MethodOfWhipping { get; set; }
-        public Blender(string name, IMethodOfWhipping methodOfWhipping) 
+        public Blender(string name, IMethodOfWhipping methodOfWhipping)
         {
             Name = name;
 
@@ -20,7 +21,7 @@ namespace BlenderDecoratorStrategy
         {
             MethodOfWhipping = MethodOfWhipping;
             Console.WriteLine("Какой текстуры коктейл?");
-            
+
         }
     }
 

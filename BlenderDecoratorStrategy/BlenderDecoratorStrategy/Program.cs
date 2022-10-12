@@ -6,7 +6,7 @@ namespace BlenderDecoratorStrategy
     {
         static void Main(string[] args)
         {
-
+            
             Console.WriteLine("Какой текстуры коктейль?");
             IMethodOfWhipping method = new HomogeneousСocktail();
             int a = Convert.ToInt32(Console.ReadLine());
@@ -23,6 +23,7 @@ namespace BlenderDecoratorStrategy
 
             }
             IDoСoctails blender = new Blender("Bork Blender", method);
+            Barman.GetBarman("Венди мини бармен", blender);
             //blender = new AddAlcohol(blender);
             //blender = new AddAlcohol(blender);
             //blender = new AddFrappe(blender);
